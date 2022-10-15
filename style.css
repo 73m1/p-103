@@ -1,0 +1,17 @@
+.people {
+    font-size:20px;
+}
+.cam_holder {
+    border-style: double;
+    width: 600px;
+    height: 400px;
+}
+.final_img_holder {
+    border-style: double;
+    width: 600px;
+    height: 400px;  
+}
+body {
+    color: ;
+    background-image: linear-gradient(to bottom, darksalmon,purple);
+}
